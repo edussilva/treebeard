@@ -1,4 +1,5 @@
 # Treebeard
+[![PyPI version](https://badge.fury.io/py/treebeard.svg)](https://badge.fury.io/py/treebeard)
 
 ## Overview
 
