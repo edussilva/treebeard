@@ -42,3 +42,7 @@ You can create different representations of directory tree with Treebeard, for e
     
     In [4]: f.name
     Out[4]: 'directory-path.json'
+
+## Contributing
+
+Your contributions are always welcome!
