@@ -1,5 +1,5 @@
 # Treebeard
-[![PyPI](https://img.shields.io/pypi/v/treebeard.svg)](https://pypi.python.org/pypi/treebeard/0.1.0)
+[![PyPI](https://img.shields.io/pypi/v/treebeard.svg)](https://pypi.python.org/pypi/treebeard)
 [![Travis branch](https://img.shields.io/travis/muriloviana/treebeard/master.svg)](https://travis-ci.org/muriloviana/treebeard)
 [![Codecov branch](https://img.shields.io/codecov/c/github/muriloviana/treebeard/master.svg)](https://codecov.io/gh/muriloviana/treebeard)
 

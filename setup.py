@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='treebeard',
-    version='0.1.0',
+    version='0.1.1',
     description='Generate directory tree representation in different formats',
     author='Murilo Viana',
     author_email='murilo.vianamo@gmail.com',
